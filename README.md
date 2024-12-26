@@ -25,6 +25,6 @@ Stock data is retrieved from Yahoo finanace.
 Revenue data is scraped from sample web page.
 
 ## How It Works
-Stock data for Tesla and GameStop are both obtined using yfinance API. 
+Stock data for Tesla and GameStop are both obtained using yfinance API. 
 Revenue data is scraped from HTML tables, cleaned, and formatted.
 The processed data is then visualized using interactive subplots.
